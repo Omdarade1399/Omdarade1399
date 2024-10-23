@@ -4,7 +4,8 @@
 
 <img align="right" alt="coding" width="300" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
-- 🔭 I’m currently working on **A Mega Blog Project**
+- 🔭 👋 Hi, I'm a full stack web developer 💻 passionate about building dynamic and responsive web applications 🌐. My expertise includes front-end technologies like HTML, CSS, and JavaScript (React ⚛️), along with back-end development using Node.js and Express 🚀. I also work with databases like MongoDB 🗄️ and have experience in API design and deployment strategies 🔧. I love tackling new challenges 💡, optimizing code 🛠️, and staying updated with the latest in web development. Check out my repos to see what I’m working on, including a React-based "To-do List" app 📝 that saves tasks using local storage for data persistence 💾.
+Let’s connect and collaborate! 🤝
 
 - 🌱 I’m currently learning **React-Redux, Angular, TypeScript and for Backend MongoDB and Sql**
 
