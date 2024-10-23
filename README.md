@@ -1,5 +1,5 @@
 ![logo](https://github.com/Omdarade1399/Omdarade1399/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
-<h1 align="center">Hi 👋, I'm Om Darade</h1> <h3 align="center">A passionate Full Stack Web Developer from India</h3> <div align="center"> <img alt="Coding" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif"> </div>
+<h1 align="center">Hi 👋, I'm Om Darade</h1> <h3 align="center">A passionate Full Stack Web Developer from India</h3> <div align="center"> <img alt="Coding" width="300" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif"> </div>
 🔭 About Me
 I'm a full stack web developer 💻, with a deep passion for building dynamic, responsive web applications 🌐. My tech stack includes:
 
